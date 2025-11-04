@@ -2,6 +2,8 @@
 
 ## 📌 Introduction
 This project demonstrates how to **build and deploy your first ERC-20-like token** on a local blockchain environment. It was created during a hands-on blockchain development session to understand how cryptocurrencies like Bitcoin work at a basic level—but in a decentralized local setup using Solidity.
+<img width="1600" height="580" alt="image" src="https://github.com/user-attachments/assets/ed134c03-83ba-4746-98ba-4120a6b68233" />
+
 
 ## 📜 Project Description
 The smart contract implements a simple fungible token with a fixed supply. Once deployed, tokens are minted to the contract deployer's address. Users can transfer tokens to any other wallet on the same network.
@@ -28,7 +30,7 @@ This project helps beginners understand key blockchain concepts such as:
 - ⚙️ Easy to deploy locally (Ganache/Hardhat)
 
 ## 🌐 Network
-- **Network used:** HeLa Testnet- 0x4e8ba972b21e749020c063b6d45a302d532b06b3
+- **Network used:** HeLa Testnet
 - **RPC URL:** `https://testnet-rpc.helachain.com`
 - **Chain id:** 666888
 
@@ -38,8 +40,10 @@ Source code is uploaded in this repository under `/contracts`.
 > Verification on block explorers is optional for local networks.
 
 ## 🔗 Contract Address
-Network: HeLa Testnet
+Network: HeLa Testnet 
+
 Contract Address: 0xA17048cc69F67C8A05226049718109F15fbD21d9
+
 Verified Source: Verified through Remix (Sourcify & Metadata Match)
 
 
